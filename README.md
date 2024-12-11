@@ -1,6 +1,3 @@
 # LabaPyt
 
-~~~
-<somecode></somecode>
-<script src="yaddayadda"></script>
-~~~
+дудцткупдтдулпт ~~~ print ~~~
